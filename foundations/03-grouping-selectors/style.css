@@ -1,0 +1,13 @@
+.me {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-family: helvetica, times new roman; fallback: sans-serif;
+    font-size: 28px;
+}
+
+.no {
+    background-color: yellow;
+    font-family: helvetica, times new roman; fallback: sans-serif;
+    font-size: 28px;
+}
