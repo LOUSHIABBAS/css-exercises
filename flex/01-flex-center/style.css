@@ -13,3 +13,22 @@
   width: 80px;
   height: 80px;
 }
+
+/* my solution*/
+
+.box{
+  translate: 150%;
+  transform: translateY(100%);
+}
+
+
+
+
+/* actual solution*/
+.container /* { */ 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+/* } */
+
+
